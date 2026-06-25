@@ -22,6 +22,11 @@ export default function AboutPage() {
         practical, durable solutions over short-term fixes &mdash; so what we
         build keeps working long after we ship it.
       </p>
+      <p className="mt-4 text-lg opacity-80">
+        We also bring specialized expertise to aviation and aerospace, building
+        next-generation flight safety software engineered to the reliability
+        and rigor that safety-critical systems demand.
+      </p>
     </section>
   );
 }

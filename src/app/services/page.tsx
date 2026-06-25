@@ -26,6 +26,11 @@ const services = [
     description:
       "Connecting the tools you already use into a single, reliable workflow with APIs and automation.",
   },
+  {
+    title: "Flight Safety Software",
+    description:
+      "Safety-critical software for next-generation aviation and aerospace systems, built to the reliability and rigor that flight demands.",
+  },
 ];
 
 export default function ServicesPage() {

@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Skytek Labs | Innovative IT Solutions",
   description:
-    "Skytek Labs delivers innovative IT solutions that help businesses build, scale, and modernize their technology.",
+    "Skytek Labs delivers innovative IT solutions that help businesses build, scale, and modernize their technology, with specialized expertise in next-generation flight safety software.",
 };
 
 export default function RootLayout({
